@@ -3,6 +3,7 @@ To make it simple, I modified it so it will use the same key pair for all TLS co
 so I can use wireshark to decrypt all traffic witht he same key. To use it, just import the 
 start.key to wireshark, it will decrypt all traffic MitM'ed. Enjoy!
 
+========================================================================
 INTRO
 ============
 Mallory is an extensible TCP/UDP man in the middle proxy that is designed 
