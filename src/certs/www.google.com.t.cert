@@ -1,0 +1,60 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 704754 (0xac0f2)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=VeriSign, Inc, CN=VeriSign Clas 3 Secure Server CA - GG
+        Validity
+            Not Before: Oct 26 00:00:00 2011 GMT
+            Not After : Sep 30 23:59:59 2013 GMT
+        Subject: C=US, ST=California, L=Mountain View, O=Google Inc, CN=www.google.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b3:64:a6:68:40:a0:8c:f7:fb:1a:b0:9c:8a:32:
+                    02:58:4e:b4:56:47:55:8e:eb:ff:ce:df:fd:b3:fc:
+                    60:8d:8b:a0:25:7f:c4:8f:c2:ca:49:c7:7d:55:54:
+                    07:61:18:34:45:27:b6:59:9b:cc:81:98:50:f0:b9:
+                    22:72:df:33:1f:23:3d:62:24:5e:aa:20:cb:47:a4:
+                    ae:ef:ab:e4:ef:51:b0:88:35:ba:05:5d:c5:d9:ed:
+                    f7:de:ea:17:37:eb:46:4c:19:d8:14:30:c4:d6:c6:
+                    c8:bd:bb:12:1a:8f:aa:8f:a9:6b:8c:eb:f7:ce:9b:
+                    0a:4b:4b:ed:61:0f:fe:84:39
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                CD:D1:02:B1:03:C7:9B:6B:AA:B2:9C:B0:50:D6:E3:F3:99:92:B7:AD
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment
+            X509v3 Authority Key Identifier: 
+                keyid:D1:AB:10:69:D1:AB:10:69:D1:AB:10:69:D1:AB:10:69:D1:AB:10:69
+
+    Signature Algorithm: sha1WithRSAEncryption
+         02:81:aa:35:f7:f7:68:3c:59:96:e9:00:c4:48:87:16:1d:87:
+         ff:f6:6b:db:78:8e:00:e3:2f:cc:0d:f1:e9:6c:38:8a:37:17:
+         29:06:f9:79:2b:23:64:24:dd:ae:ea:71:45:ec:a4:a9:32:e5:
+         46:24:1e:39:5f:a9:82:45:52:51:d2:fe:62:17:67:99:bc:3a:
+         10:45:e4:16:0c:b2:59:cc:67:e0:e8:41:f5:26:31:e1:12:b7:
+         e7:d9:57:6c:e8:30:23:8e:40:4f:3c:9d:bf:30:ea:70:a0:67:
+         7b:e7:c9:b1:92:e7:af:4e:ee:fc:b6:23:3e:be:2d:2f:21:cf:
+         ae:87
+
+-----BEGIN CERTIFICATE-----
+MIIClTCCAf6gAwIBAgIDCsDyMA0GCSqGSIb3DQEBBQUAMFUxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1WZXJpU2lnbiwgSW5jMS4wLAYDVQQDEyVWZXJpU2lnbiBDbGFz
+IDMgU2VjdXJlIFNlcnZlciBDQSAtIEdHMB4XDTExMTAyNjAwMDAwMFoXDTEzMDkz
+MDIzNTk1OVowaDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAU
+BgNVBAcUDU1vdW50YWluIFZpZXcxEzARBgNVBAoUCkdvb2dsZSBJbmMxFzAVBgNV
+BAMUDnd3dy5nb29nbGUuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCz
+ZKZoQKCM9/sasJyKMgJYTrRWR1WO6//O3/2z/GCNi6Alf8SPwspJx31VVAdhGDRF
+J7ZZm8yBmFDwuSJy3zMfIz1iJF6qIMtHpK7vq+TvUbCINboFXcXZ7ffe6hc360ZM
+GdgUMMTWxsi9uxIaj6qPqWuM6/fOmwpLS+1hD/6EOQIDAQABo2AwXjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBTN0QKxA8eba6qynLBQ1uPzmZK3rTAOBgNVHQ8BAf8E
+BAMCBPAwHwYDVR0jBBgwFoAU0asQadGrEGnRqxBp0asQadGrEGkwDQYJKoZIhvcN
+AQEFBQADgYEAAoGqNff3aDxZlukAxEiHFh2H//Zr23iOAOMvzA3x6Ww4ijcXKQb5
+eSsjZCTdrupxReykqTLlRiQeOV+pgkVSUdL+Yhdnmbw6EEXkFgyyWcxn4OhB9SYx
+4RK359lXbOgwI45ATzydvzDqcKBne+fJsZLnr07u/LYjPr4tLyHProc=
+-----END CERTIFICATE-----

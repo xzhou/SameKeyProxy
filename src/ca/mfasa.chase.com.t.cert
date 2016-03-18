@@ -1,0 +1,61 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 5221240 (0x4fab78)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=VeriSign, Inc, CN=VeriSign Clas 3 Secure Server CA - GG
+        Validity
+            Not Before: May 24 00:00:00 2012 GMT
+            Not After : Jul  1 23:59:59 2013 GMT
+        Subject: C=US, ST=Ohio, L=Columbus, O=JPMorgan Chase, OU=GTI NetworkCIG, CN=mfasa.chase.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d1:7e:3b:5e:90:68:7e:ef:df:ba:42:c3:e7:0b:
+                    eb:3d:f2:68:f3:a4:f0:c8:20:9c:d7:cc:4a:01:ff:
+                    a5:e4:2a:b3:f0:e1:3f:06:0e:2e:15:08:e0:e3:6d:
+                    a8:82:d4:0e:7f:ff:b1:36:9b:38:81:96:f3:f7:77:
+                    68:11:a8:11:4e:39:9f:4c:eb:10:1d:25:6f:21:26:
+                    d0:4a:59:e7:ea:1b:ee:cb:11:8b:2e:d3:98:b6:dc:
+                    f2:bc:6a:19:40:70:a4:67:25:38:99:72:b3:24:b9:
+                    fb:67:d7:35:27:90:48:6c:5c:df:1b:7e:48:23:3c:
+                    cb:af:0f:b6:96:08:3a:58:5f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                3E:0F:D9:67:47:06:5A:DE:52:99:93:CA:10:04:D3:5F:27:75:92:14
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment
+            X509v3 Authority Key Identifier: 
+                keyid:D1:AB:10:69:D1:AB:10:69:D1:AB:10:69:D1:AB:10:69:D1:AB:10:69
+
+    Signature Algorithm: sha1WithRSAEncryption
+         3a:67:df:8b:73:40:31:8f:64:43:d6:c1:7f:81:83:df:3f:5c:
+         7e:cb:11:6e:cd:62:72:62:a8:52:a9:3c:79:75:12:3f:94:27:
+         f4:3c:4f:5d:8c:b0:fe:de:d8:dc:ad:c8:d9:51:20:b5:e8:dc:
+         8c:b8:8e:0b:01:b2:42:6a:5b:4c:f2:37:b5:c3:da:95:4c:e9:
+         4a:53:ec:36:cd:64:f3:56:e1:f6:77:96:f0:b9:7a:df:15:95:
+         29:c2:43:46:84:2d:39:b4:f9:07:ce:bf:51:39:1a:da:42:54:
+         13:a4:10:80:26:00:50:19:da:be:bf:7b:08:56:d4:0f:18:d6:
+         5b:9a
+
+-----BEGIN CERTIFICATE-----
+MIICqDCCAhGgAwIBAgIDT6t4MA0GCSqGSIb3DQEBBQUAMFUxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1WZXJpU2lnbiwgSW5jMS4wLAYDVQQDEyVWZXJpU2lnbiBDbGFz
+IDMgU2VjdXJlIFNlcnZlciBDQSAtIEdHMB4XDTEyMDUyNDAwMDAwMFoXDTEzMDcw
+MTIzNTk1OVowezELMAkGA1UEBhMCVVMxDTALBgNVBAgTBE9oaW8xETAPBgNVBAcU
+CENvbHVtYnVzMRcwFQYDVQQKFA5KUE1vcmdhbiBDaGFzZTEXMBUGA1UECxQOR1RJ
+IE5ldHdvcmtDSUcxGDAWBgNVBAMUD21mYXNhLmNoYXNlLmNvbTCBnzANBgkqhkiG
+9w0BAQEFAAOBjQAwgYkCgYEA0X47XpBofu/fukLD5wvrPfJo86TwyCCc18xKAf+l
+5Cqz8OE/Bg4uFQjg422ogtQOf/+xNps4gZbz93doEagRTjmfTOsQHSVvISbQSlnn
+6hvuyxGLLtOYttzyvGoZQHCkZyU4mXKzJLn7Z9c1J5BIbFzfG35IIzzLrw+2lgg6
+WF8CAwEAAaNgMF4wDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUPg/ZZ0cGWt5SmZPK
+EATTXyd1khQwDgYDVR0PAQH/BAQDAgTwMB8GA1UdIwQYMBaAFNGrEGnRqxBp0asQ
+adGrEGnRqxBpMA0GCSqGSIb3DQEBBQUAA4GBADpn34tzQDGPZEPWwX+Bg98/XH7L
+EW7NYnJiqFKpPHl1Ej+UJ/Q8T12MsP7e2NytyNlRILXo3Iy4jgsBskJqW0zyN7XD
+2pVM6UpT7DbNZPNW4fZ3lvC5et8VlSnCQ0aELTm0+QfOv1E5GtpCVBOkEIAmAFAZ
+2r6/ewhW1A8Y1lua
+-----END CERTIFICATE-----
