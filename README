@@ -1,6 +1,6 @@
 Mallory is a TCP/UDP proxy, but it generate a self signed certificate for each MitM connection. 
-To make it simple, I modified it so it will use the same key pair for all TLS connections, 
-so I can use wireshark to decrypt all traffic witht he same key. To use it, just import the 
+To make it simple, I modified it so it will use the same key pair for all self signed certificates, 
+so I can use wireshark to decrypt all traffic with the same key. To use it, just import the 
 start.key to wireshark, it will decrypt all traffic MitM'ed. Enjoy!
 
 ========================================================================
